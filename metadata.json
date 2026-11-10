@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Stock Counter & Serial Manager",
+  "description": "Mobile-first stock counter, serial number tracker, camera barcode scanner, and Excel export manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
